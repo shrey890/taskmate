@@ -1,0 +1,9 @@
+.add-task input{
+    width: 250px;
+    height: 30px;
+}
+.reset{
+   font-size: 2rem;
+    background-color: red;
+    cursor: pointer;
+}
